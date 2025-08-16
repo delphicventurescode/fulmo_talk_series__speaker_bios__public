@@ -13,12 +13,12 @@ The Fulmo Talk Series features a diverse set of talks in various categories, inc
 
 A number of different areas have been covered as part of the Parolado-Serio (that is, "Talk Series" in Esperanto). However, the aim of the Talk Series is to highlight scientifically accurate information from the Happiness Studies (primarily) and also the Resilience Studies areas.
 
-Happiness Related Talks are available here:
+Happiness Studies Related Talks are available here:
 https://talkseries.org/%f0%9f%8e%a5-featured-videos-fulmo-talk-series-%e2%9a%a1/
 and also here:
 https://talkseries.org/other-featured-videos-%e2%9a%a1/
 
-Note that, in these talks, there are topics covered other than Happiness as well. A larger set of Happiness Related Talks is also available here:
+Note that, in these talks, there are topics covered other than Happiness Studies as well. A larger set of Happiness Related Talks is also available here:
 https://talkseries.org/%f0%9f%98%8a-happiness-related-talks/
 
 ---
