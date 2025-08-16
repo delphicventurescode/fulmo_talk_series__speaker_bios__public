@@ -1,4 +1,4 @@
-## GK Suresh
+## Prof. GK Suresh
 GK Suresh has 22 years of corporate experience with ITC Limited across Sales, Marketing, Product Development, and Business Leadership. He was part of the team that established ITC's Personal Care business, launching brands like Fiama, Vivel, and Engage. He later headed Marketing for the Foods business, managing brands such as Aashirvaad, Bingo, Sunfeast, Yippee, Candyman, and BNatural across categories including Staples, Snacks, Biscuits, Noodles, Confectionery, and Juices. His final corporate role involved launching the chocolate (Fabelle) and coffee (Sunbean) categories as Vice President, New Category Development.
 
 In 2017, he transitioned to academia and is currently a Professor at PES University, as well as a Visiting Professor at IIM Bangalore. Alongside teaching, he has advised several companies, including Tata Soulfull, DFM Snacks (Crax), KRBL (India Gate), Amrutanjan, Indian Oil, and others. He also serves as a mentor at one of India's largest incubators, NSRCEL at IIM Bangalore.
