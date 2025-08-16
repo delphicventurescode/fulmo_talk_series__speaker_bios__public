@@ -1,3 +1,6 @@
+## SPEAKER BIOS
+##
+
 ## Prof. GK Suresh
 GK Suresh has 22 years of corporate experience with ITC Limited across Sales, Marketing, Product Development, and Business Leadership. He was part of the team that established ITC's Personal Care business, launching brands like Fiama, Vivel, and Engage. He later headed Marketing for the Foods business, managing brands such as Aashirvaad, Bingo, Sunfeast, Yippee, Candyman, and BNatural across categories including Staples, Snacks, Biscuits, Noodles, Confectionery, and Juices. His final corporate role involved launching the chocolate (Fabelle) and coffee (Sunbean) categories as Vice President, New Category Development.
 
@@ -42,9 +45,17 @@ He holds an LL.M. from the Max Planck Institute–MIPLC and has completed a Cert
 
 Ayan is passionate about applying his skills to support organizational growth, compliance excellence, and the success of innovative projects in the media and entertainment space.
 
+## Peter Adeyi
+Peter Adedayo Adeyi is a digital marketing strategist and content creator with a strong focus on storytelling, technology, and helping individuals and brands enhance their digital presence. He has collaborated with authors, eCommerce business owners, and thought leaders to create compelling content, optimize online visibility, and foster deeper engagement across digital platforms.
+
+His work spans book promotion, video marketing, and online branding, combining creativity and technology to connect audiences with meaningful content. Peter continues to explore the intersection of technology, communication, and culture, helping brands and individuals navigate the evolving digital landscape.
+
+
 ## Vishwanath Mallabadi
 Vishwanath Mallabadi inherited his father’s creative talents and continues the legacy with a unique, new-age artistic vision. A passionate contemporary eco-artist, he has over 20 years of experience working with electronic waste as a medium for art. Operating at the intersection of art, technology, and sustainability, Vishwanath uses his creations to raise awareness of environmental concerns and demonstrate how discarded objects can be transformed into meaningful art.
 
 His work removes e-waste from the waste stream, giving “defunct” gadgets a new life and reducing their environmental impact. Exhibitions of his work have been held at Sublime Galleria, Alliance Française, Orion Mall, Bangalore Creative Circus, and numerous sustainability symposiums.
 
 Vishwanath continually explores new forms and techniques, transforming discarded electronics into compelling artistic creations that carry both aesthetic and environmental value. Through upcycling, he blends creative vision with ecological responsibility, making art that is as thought-provoking as it is sustainable.
+
+[+]
