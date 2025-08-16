@@ -31,7 +31,7 @@ https://talkseries.org/%f0%9f%98%8a-happiness-related-talks/
 **Highlights of Talk(s):** Strategies to improve happiness levels; Preview of book
 
 
-### Anand Manikutty
+### [Anand Manikutty]
 **Role:** Chief Product Officer, Qwykr Technologies & Fulmo Technologies  
 **Expertise:** Full-stack development, AI, product strategy, InfoSec  
 **Highlights of Talk(s):** Tools to improve happiness levels; Tamil culture and Happiness
