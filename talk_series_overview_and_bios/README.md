@@ -1,15 +1,25 @@
 # Fulmo Talk Series – Speaker Bios
 
-> **Note:** This is a partial list of speakers from the Fulmo Talk Series 2025–2026.
+> **Note:** This is a partial list of speakers from the Fulmo Talk Series 2025 and 2026.
+>
+> Fulmo Talk Series 2026 has already begun taping. The Talk Series is not scheduled to come out until 2026.
 
 ---
 
 ## 2025 Highlights
 
-The Fulmo Talk Series features a diverse set of talks in three main categories:  
-1. **Happiness & Mental Wellness** – Insights and practical guidance on happiness and mental wellness.  
-2. **Innovation & Business Strategy** – Talks on language innovation to advertising strategy.  
-3. **Social Impact & Culture** – Talks that explore disability rights, cultural heritage, and more.  
+The Fulmo Talk Series features a diverse set of talks in various categories, including the following:  
+- **Happiness & Mental Wellness** – Insights and practical guidance on happiness and mental wellness; **Innovation & Business Strategy** – Talks on language innovation to advertising strategy; and **Social Impact & Culture** – Talks that explore disability rights, cultural heritage, and more.
+
+However, the aim of the Talk Series is to highlight scientifically accurate information from the Happiness Studies (primarily) and also the Resilience Studies area.
+
+Happiness Related Talks are available here:
+https://talkseries.org/%f0%9f%8e%a5-featured-videos-fulmo-talk-series-%e2%9a%a1/
+and also here:
+https://talkseries.org/other-featured-videos-%e2%9a%a1/
+
+Note that, in these talks, there are topics covered other than Happiness as well. A larger set of Happiness Related Talks is also available here:
+https://talkseries.org/%f0%9f%98%8a-happiness-related-talks/
 
 ---
 
@@ -80,6 +90,11 @@ Vishwanath Mallabadi inherited his father’s creative talents and continues the
 His work removes e-waste from the waste stream, giving “defunct” gadgets a new life and reducing their environmental impact. Exhibitions of his work have been held at Sublime Galleria, Alliance Française, Orion Mall, Bangalore Creative Circus, and numerous sustainability symposiums.
 
 Vishwanath continually explores new forms and techniques, transforming discarded electronics into compelling artistic creations that carry both aesthetic and environmental value. Through upcycling, he blends creative vision with ecological responsibility, making art that is as thought-provoking as it is sustainable.
+
+## Peter Adeyi
+Peter Adedayo Adeyi is a digital marketing strategist and content creator with a strong focus on storytelling, technology, and helping individuals and brands enhance their digital presence. He has collaborated with authors, eCommerce business owners, and thought leaders to create compelling content, optimize online visibility, and foster deeper engagement across digital platforms.
+
+His work spans book promotion, video marketing, and online branding, combining creativity and technology to connect audiences with meaningful content. Peter continues to explore the intersection of technology, communication, and culture, helping brands and individuals navigate the evolving digital landscape.
 
 ---
 
