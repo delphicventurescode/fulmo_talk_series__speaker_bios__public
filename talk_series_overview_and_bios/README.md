@@ -11,7 +11,7 @@
 The Fulmo Talk Series features a diverse set of talks in various categories, including the following:  
 - **Happiness & Mental Wellness** – Insights and practical guidance on happiness and mental wellness; **Innovation & Business Strategy** – Talks on language innovation to advertising strategy; and **Social Impact & Culture** – Talks that explore disability rights, cultural heritage, and more.
 
-However, the aim of the Talk Series is to highlight scientifically accurate information from the Happiness Studies (primarily) and also the Resilience Studies area.
+A number of different areas have been covered as part of the Parolado-Serio (that is, "Talk Series" in Esperanto). However, the aim of the Talk Series is to highlight scientifically accurate information from the Happiness Studies (primarily) and also the Resilience Studies areas.
 
 Happiness Related Talks are available here:
 https://talkseries.org/%f0%9f%8e%a5-featured-videos-fulmo-talk-series-%e2%9a%a1/
