@@ -2,7 +2,7 @@
 
 > **Note:** This is a partial list of speakers from the Fulmo Talk Series 2025 and 2026.
 >
-> Fulmo Talk Series 2026 has already begun taping. The Talk Series is not scheduled to come out until 2026.
+> Fulmo Talk Series 2026 has already begun taping. The Talk Series is not scheduled to come out until 2026, however.
 
 ---
 
