@@ -47,6 +47,4 @@ Vishwanath Mallabadi inherited his father’s creative talents and continues the
 
 His work removes e-waste from the waste stream, giving “defunct” gadgets a new life and reducing their environmental impact. Exhibitions of his work have been held at Sublime Galleria, Alliance Française, Orion Mall, Bangalore Creative Circus, and numerous sustainability symposiums.
 
-Vishwanath’s mission is clear: “No e-waste is a waste for him; he turns it into worthy objects.” He continually explores new forms and techniques, transforming discarded electronics into compelling artistic creations that carry both aesthetic and environmental value.
-
-Through upcycling, he blends creative vision with ecological responsibility, making art that is as thought-provoking as it is sustainable.
+Vishwanath continually explores new forms and techniques, transforming discarded electronics into compelling artistic creations that carry both aesthetic and environmental value. Through upcycling, he blends creative vision with ecological responsibility, making art that is as thought-provoking as it is sustainable.
