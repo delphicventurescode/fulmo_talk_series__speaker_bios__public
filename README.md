@@ -14,7 +14,7 @@ He has been invited to deliver lectures and seminars in the Distinguished Lectur
 
 ## Mr. Anand Manikutty
 
-**Anand Manikutty** is a writer, poet, inventor, entrepreneur, researcher, and technology leader with over 20 years of experience spanning software engineering, academia, and non-profits. He has held roles at **Microsoft**, **Oracle**, and pioneering organizations like **Digital Green**, and currently serves as **Fractional CTO** and **InfoSec Architect**, building scalable and secure web systems.
+**Anand Manikutty** is a writer, poet, inventor, entrepreneur, researcher, and technology leader with over 20 years of experience spanning software engineering, academia, and non-profits. He has held roles at **Microsoft**, **Oracle**, and pioneering organizations like **Digital Green**, and currently serves as **Fractional CTO** and **Software Architect**, building scalable and secure web systems.
 
 Mr. Manikutty is also a published author and theorist, with more than 10 volumes of poetry and contributions to the classic textbook *Strategic Management: A South Asian Perspective*. He has developed new theories in *Political Science*, *Philosophy*, and *Economics*, collectively called *La Gravaj Teoriaj Projektoj*, and has crafted innovative constructs in linguistics, including a new language and related concepts.
 
