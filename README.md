@@ -42,6 +42,13 @@ GK Suresh has 22 years of corporate experience with ITC Limited across Sales, Ma
 
 In 2017, he transitioned to academia and is currently a Professor at PES University, as well as a Visiting Professor at IIM Bangalore. Alongside teaching, he has advised several companies, including Tata Soulfull, DFM Snacks (Crax), KRBL (India Gate), Amrutanjan, Indian Oil, and others. He also serves as a mentor at one of India's largest incubators, NSRCEL at IIM Bangalore.
 
+## Shailesh Davara
+
+Shailesh Davara is a technology leader, entrepreneur, and systems thinker with extensive experience in scaling engineering organizations and SaaS platforms. He is the CEO and co-founder of **Improwised Technologies**, where he partners with software teams to enhance platform reliability, engineering efficiency, and development velocity, helping companies scale without accumulating technical debt.
+
+Over the course of his career, Shailesh has worked with SaaS companies across various growth stages—from early-stage ventures building repeatable systems to mature organizations refining CI/CD pipelines, automating operations, and empowering developer autonomy. His expertise lies in designing internal platforms, tooling layers, and infrastructure patterns that make scaling predictable, efficient, and sustainable.
+
+Shailesh is passionate about translating complex engineering challenges into actionable strategies that enable teams to innovate rapidly while maintaining stability and security. Through his work, he bridges the gap between technical execution and organizational growth, helping companies build resilient and high-performing engineering ecosystems.
 
 ## Dr. Budhaditya Chakraborty
 Dr. Budhaditya Chakraborty is the Director and Head of Cardiothoracic and Vascular Surgery (CTVS) at Rajasthan Hospital, Jaipur. A pioneering heart surgeon, he was one of the lead surgeons behind Rajasthan’s first successful heart transplant in 2015. He completed his cardiac surgery training at AIIMS, New Delhi, followed by fellowships in aortic and minimally invasive cardiac surgery at Harvard Medical School, and an advanced fellowship in heart transplantation and mechanical circulatory support (MCS) at the Mayo Clinic, USA.
