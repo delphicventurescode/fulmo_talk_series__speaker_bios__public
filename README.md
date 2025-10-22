@@ -20,7 +20,7 @@ Mr. Manikutty is also a published author and theorist, with more than 10 volumes
 
 While Mr. Manikutty's research work spans **operating systems**, **distributed systems**, **computer security**, **artificial intelligence** and **database management systems**, in computer science, his research work in management spans the **strategy** and **leadership** areas. Mr. Manikutty’s creative work in poetry blends **AI**, and poetivcs, and in some cases, offer instances of **constrained writing**; for instance, his AI-assisted poetry books explore novel themes based on research in epidemiology, political science and history. Technologies underlying his software platforms have been accepted into multiple incubation programs, including **Google for Startups**, **Microsoft for Startups**, the **Wadhwani Foundation's Ignite Program**, **IIM Kashipur's FIED program**, the **Xartup program**, and more. The technologies have been brought to the attention of numerous researchers including even two Nobel Laureates, as they intersect with "Third World" development and economics related issues. His recent research and writing emphasize cultural synthesis, resilience, happiness, and the science of well-being.
 
-Mr. Manikutty combines intellectual rigor with hands-on experience to innovate across technology, education, and the arts. An alumnus of **IIT Madras**, **University of Wisconsin–Madison**, **Stanford University**, and **Harvard Business School**, 
+Mr. Manikutty combines intellectual rigor with hands-on experience to innovate across technology, education, and the arts. He is an alumnus of **IIT Madras**, **University of Wisconsin–Madison**, **Stanford University**, and **Harvard Business School**, 
 
 [+]
 
