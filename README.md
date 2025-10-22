@@ -1,11 +1,6 @@
 ## SPEAKER BIOS
 ##
 
-## Prof. GK Suresh
-GK Suresh has 22 years of corporate experience with ITC Limited across Sales, Marketing, Product Development, and Business Leadership. He was part of the team that established ITC's Personal Care business, launching brands like Fiama, Vivel, and Engage. He later headed Marketing for the Foods business, managing brands such as Aashirvaad, Bingo, Sunfeast, Yippee, Candyman, and BNatural across categories including Staples, Snacks, Biscuits, Noodles, Confectionery, and Juices. His final corporate role involved launching the chocolate (Fabelle) and coffee (Sunbean) categories as Vice President, New Category Development.
-
-In 2017, he transitioned to academia and is currently a Professor at PES University, as well as a Visiting Professor at IIM Bangalore. Alongside teaching, he has advised several companies, including Tata Soulfull, DFM Snacks (Crax), KRBL (India Gate), Amrutanjan, Indian Oil, and others. He also serves as a mentor at one of India's largest incubators, NSRCEL at IIM Bangalore.
-
 ## Dr. Nalin Sharda
 Dr. Nalin Sharda earned his B.Tech. and Ph.D. degrees from the Indian Institute of Technology, Delhi.
 
@@ -15,20 +10,6 @@ Dr. Sharda’s publications include the textbook *Multimedia Information Network
 
 He has been invited to deliver lectures and seminars in the Distinguished Lecturer Series of the European Union’s Pro-learn program and as a Distinguished Lecturer of the IEEE Education Society. Additionally, he has presented over 60 technical seminars, lectures, and keynote addresses across Austria, Australia, Bangladesh, China, Finland, Germany, Hong Kong, India, Malaysia, Macau, Pakistan, Japan, Singapore, Slovenia, Sweden, Switzerland, UAE, and the USA.
 
-## Prof. Sonja Lyubomirsky
-Prof. Sonja Lyubomirsky is a Russian-born American psychologist and a professor in the Department of Psychology at the University of California, Riverside. She is the author of *The How of Happiness: A Scientific Approach to Getting the Life You Want*, a book translated into 22 languages that explores how intentional activity, genetics, and circumstances contribute to long-term happiness.
-
-Prof. Lyubomirsky earned her B.A. from Harvard University and her Ph.D. in Social/Personality Psychology from Stanford University. Her research focuses on understanding the determinants of happiness and well-being and translating scientific findings into practical strategies for everyday life.
-
-She has received numerous honors, including grants from the John Templeton Foundation and the National Institute of Mental Health, the Templeton Positive Psychology Prize, an honorary doctorate from the University of Basel, and election as a Fellow of the American Association for the Advancement of Science.
-
-## Dr. Budhaditya Chakraborty
-Dr. Budhaditya Chakraborty is the Director and Head of Cardiothoracic and Vascular Surgery (CTVS) at Rajasthan Hospital, Jaipur. A pioneering heart surgeon, he was one of the lead surgeons behind Rajasthan’s first successful heart transplant in 2015. He completed his cardiac surgery training at AIIMS, New Delhi, followed by fellowships in aortic and minimally invasive cardiac surgery at Harvard Medical School, and an advanced fellowship in heart transplantation and mechanical circulatory support (MCS) at the Mayo Clinic, USA.
-
-His areas of expertise include advanced minimally invasive heart surgeries, robotic surgery, cardiac transplantation, and aortic interventions. He resides in Jaipur with his family — his wife, a professor of digital marketing at a private university, his mother, and two daughters.
-
-Outside the operating room, Dr. Chakraborty is passionate about patient education, running a digital platform called The Heart Surgery Forum. He is also an avid marathon runner, combining his dedication to medicine with personal fitness and community engagement.
-
 ## Mr. Anand Manikutty
 Anand Manikutty is a writer, poet, inventor, entrepreneur, researcher, and technology leader with over 20 years of experience spanning software engineering, academia, and non-profits. He has held roles at Microsoft, Oracle, and pioneering organizations like Digital Green, and currently serves as Fractional CTO and InfoSec Architect, building scalable and secure web systems.
 
@@ -37,6 +18,39 @@ Anand is also a published author and theorist, with more than 10 volumes of poet
 Anand’s creative work blends AI, mathematics, and constrained writing; for instance, his AI-assisted poetry explores novel literary forms. Technologies underlying his software solving developmental issues has been accepted into multiple incubation programs, including Google For Startups, Microsoft For Startups, the Wadhwani Foundation's Ignite Program, IIM Kashipur's FIED program, the Xartup program and more. The technologies have been brought to the attention of numerous researchers including even two Nobel Laureates. His recent research and writing emphasize cultural synthesis, resilience, happiness, and the science of well-being.
 
 An alumnus of IIT Madras, University of Wisconsin–Madison, Stanford University, and Harvard Business School, Anand combines intellectual rigor with hands-on experience to innovate across technology, education, and the arts.
+
+## Dr. Sanjiv Chopra
+
+Dr. Sanjiv Chopra is an Indian-born American physician, educator, and author who has dedicated over four decades to advancing the fields of hepatology, leadership, and medical education. A Professor of Medicine and former Faculty Dean for Continuing Medical Education at **Harvard Medical School**, he currently serves as Director of Clinical Hepatology at **Beth Israel Deaconess Medical Center**, Boston.
+
+An alumnus of **AIIMS, New Delhi**, Dr. Chopra moved to the United States in 1972 to pursue postgraduate training in Internal Medicine and Gastroenterology. Since joining the Harvard faculty in 1979, he has mentored countless physicians and medical professionals worldwide, blending clinical excellence with a passion for teaching and leadership.
+
+A prolific author, Dr. Chopra has written several acclaimed books including *The Big Five: Five Simple Things You Can Do to Live a Longer, Healthier Life*, *Leadership by Example: The Ten Key Principles of All Great Leaders*, *Two Most Important Days*, and *Coffee! The Magical Elixir*. His works bridge science, wellness, and philosophy, emphasizing purpose, health, and the joy of lifelong learning. His latest works, *Ignite the Fire Within* and *Letters to a Young Doctor*, continue his mission of inspiring professionals and students alike.
+
+Beyond medicine, Dr. Chopra is a sought-after speaker and storyteller whose lectures—infused with humor, wisdom, and humanity—have touched audiences across the world. Through his writing and teaching, he exemplifies a life of service, learning, and leadership rooted in both Eastern wisdom and Western science.
+
+
+## Prof. Sonja Lyubomirsky
+Prof. Sonja Lyubomirsky is a Russian-born American psychologist and a professor in the Department of Psychology at the University of California, Riverside. She is the author of *The How of Happiness: A Scientific Approach to Getting the Life You Want*, a book translated into 22 languages that explores how intentional activity, genetics, and circumstances contribute to long-term happiness.
+
+Prof. Lyubomirsky earned her B.A. from Harvard University and her Ph.D. in Social/Personality Psychology from Stanford University. Her research focuses on understanding the determinants of happiness and well-being and translating scientific findings into practical strategies for everyday life.
+
+She has received numerous honors, including grants from the John Templeton Foundation and the National Institute of Mental Health, the Templeton Positive Psychology Prize, an honorary doctorate from the University of Basel, and election as a Fellow of the American Association for the Advancement of Science.
+
+## Prof. GK Suresh
+GK Suresh has 22 years of corporate experience with ITC Limited across Sales, Marketing, Product Development, and Business Leadership. He was part of the team that established ITC's Personal Care business, launching brands like Fiama, Vivel, and Engage. He later headed Marketing for the Foods business, managing brands such as Aashirvaad, Bingo, Sunfeast, Yippee, Candyman, and BNatural across categories including Staples, Snacks, Biscuits, Noodles, Confectionery, and Juices. His final corporate role involved launching the chocolate (Fabelle) and coffee (Sunbean) categories as Vice President, New Category Development.
+
+In 2017, he transitioned to academia and is currently a Professor at PES University, as well as a Visiting Professor at IIM Bangalore. Alongside teaching, he has advised several companies, including Tata Soulfull, DFM Snacks (Crax), KRBL (India Gate), Amrutanjan, Indian Oil, and others. He also serves as a mentor at one of India's largest incubators, NSRCEL at IIM Bangalore.
+
+
+## Dr. Budhaditya Chakraborty
+Dr. Budhaditya Chakraborty is the Director and Head of Cardiothoracic and Vascular Surgery (CTVS) at Rajasthan Hospital, Jaipur. A pioneering heart surgeon, he was one of the lead surgeons behind Rajasthan’s first successful heart transplant in 2015. He completed his cardiac surgery training at AIIMS, New Delhi, followed by fellowships in aortic and minimally invasive cardiac surgery at Harvard Medical School, and an advanced fellowship in heart transplantation and mechanical circulatory support (MCS) at the Mayo Clinic, USA.
+
+His areas of expertise include advanced minimally invasive heart surgeries, robotic surgery, cardiac transplantation, and aortic interventions. He resides in Jaipur with his family — his wife, a professor of digital marketing at a private university, his mother, and two daughters.
+
+Outside the operating room, Dr. Chakraborty is passionate about patient education, running a digital platform called The Heart Surgery Forum. He is also an avid marathon runner, combining his dedication to medicine with personal fitness and community engagement.
+
+
 
 ## Mr. Ayan Roy Chowdhury
 Ayan Roy Chowdhury is the Head of Legal and Compliance at the Broadcast Audience Research Council, where he leverages his extensive legal expertise to provide strategic guidance to the organization. With over 20 years of experience in the media and entertainment sector, he has a deep understanding of the complex legal landscape of India and excels at navigating it effectively.
